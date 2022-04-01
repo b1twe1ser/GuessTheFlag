@@ -1,5 +1,5 @@
 # GuessTheFlag 🇬🇧🇺🇦🇩🇪
-A simple guess the flag game made with SwiftUI.
+A simple guess the flag game made with SwiftUI 🌟.
 
 
 <img width="340" alt="Screenshot 2022-04-01 at 12 28 36" src="https://user-images.githubusercontent.com/69219273/161246793-b8ef16ba-d26e-472a-9ca9-a2370b4f27c1.png">
